@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manychat.partnerlinks.io/sitemap.xml
